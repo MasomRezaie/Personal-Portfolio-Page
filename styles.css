@@ -17,13 +17,13 @@ body {
   height: 20px;
 }
 
-/* #navbar {
+#navbar {
   display: flex;
   justify-content:space-between;
   position:fixed;
   width: 40%;
   margin-left: 55%;
-} */
+}
 
 /* #welcome-section {
   height: 100vh;
