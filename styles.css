@@ -68,18 +68,18 @@ font-size: 2em;
   color: darkorchid;
 }
 
-/* #na-vbar a {
+#na-vbar a {
   display: block;
   color: rgb(2, 0, 0);
   text-align: center;
   padding: 20px 23px;
   text-decoration: none;
-} */
+}
 
-/* #text {
+#text {
   text-decoration: none;
   color: whitesmoke;
-} */
+}
 
 /* #Home {
   padding: 500px 0;
