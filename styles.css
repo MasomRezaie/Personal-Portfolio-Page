@@ -33,17 +33,17 @@ body {
   background-color: #424141;
 }
 
-/* .welcome-content h1 {
+.welcome-content h1 {
 font-size: 2em;
-} */
+}
 
-/* #pic {
+#pic {
   border-radius: 50%;
   height: 40vh;
   width: 35vh;
   margin-left: 30%;
   margin-top: 40px;
-} */
+}
 
 /* #h5 {
   text-align: center;
