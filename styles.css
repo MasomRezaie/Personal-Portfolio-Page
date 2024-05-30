@@ -19,8 +19,8 @@ body {
 
 #navbar {
   display: flex;
-  justify-content:space-between;
-  position:fixed;
+  justify-content: space-between;
+  position: fixed;
   width: 40%;
   margin-left: 55%;
 }
@@ -34,7 +34,7 @@ body {
 }
 
 .welcome-content h1 {
-font-size: 2em;
+  font-size: 2em;
 }
 
 #pic {
@@ -47,13 +47,13 @@ font-size: 2em;
 
 #h5 {
   text-align: center;
-  color:dimgray;
+  color: dimgray;
 }
 
 .h1 {
   text-align: center;
   color: whitesmoke;
-} 
+}
 
 #para {
   text-align: center;
@@ -147,4 +147,4 @@ font-size: 2em;
   #Welcome-section .welcome-content h1 {
     font-size: 1.5em;
   }
-  }
+}
