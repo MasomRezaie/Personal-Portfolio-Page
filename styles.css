@@ -25,13 +25,13 @@ body {
   margin-left: 55%;
 }
 
-/* #welcome-section {
+#welcome-section {
   height: 100vh;
   display: flex;
   justify-content: center;
   align-items: center;
   background-color: #424141;
-} */
+}
 
 /* .welcome-content h1 {
 font-size: 2em;
