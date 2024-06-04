@@ -139,6 +139,29 @@ body {
   margin-top: 20px;
 }
 
+.row2 {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.col-1 {
+  flex-basis: 35%;
+}
+
+#top {
+  text-align: center;
+  color: white;
+}
+
+#top-1 {
+  color: white;
+  margin-left: 15px;
+}
+
+
+
+
 .Contact{
   padding: 20px 0;
   margin-bottom: 20px;
