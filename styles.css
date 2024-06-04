@@ -2,6 +2,7 @@
 body {
   margin: 0%;
   font-family: Arial, sans-serif;
+  background-color: #424141;
 }
 
 #header {
@@ -26,11 +27,19 @@ body {
 }
 
 #welcome-section {
-  height: 100vh;
+  height: 70vh;
   display: flex;
   justify-content: center;
   align-items: center;
   background-color: #424141;
+  padding: 80px 0;
+  margin-bottom: 20px;
+  border: solid 3px;
+  border-radius: 15px;
+  border-color: rgb(220, 154, 253);
+  margin-top: 15px;
+  margin-left: 20px;
+  margin-right: 20px;
 }
 
 .welcome-content h1 {
@@ -80,50 +89,65 @@ body {
   color: whitesmoke;
 }
 
-#Home {
-  padding: 500px 0;
-}
-
-.home-page {
-  background-color: #ddd;
-  padding: 20px;
-  margin-bottom: 20px;
-}
-
-#About {
-  padding: 500px 0;
-}
-
 .About-me {
-  background-color: #ddd;
-  padding: 20px;
+  padding: 80px 0;
   margin-bottom: 20px;
+  border: solid 3px;
+  border-radius: 15px;
+  border-color: rgb(220, 154, 253);
+  margin-top: 15px;
+  margin-left: 20px;
+  margin-right: 20px;
 }
 
-#Perfermance {
-  padding: 500px 0;
+.row {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
 }
 
-.Perfermance {
-  background-color: #ddd;
-  padding: 20px;
-  margin-bottom: 20px;
+.about-col-1 {
+  flex-basis: 35%;
 }
 
-#projects {
-  padding: 500px 0;
+.about-col-1 img {
+  width: 100%;
+  border-radius: 15px;
+  margin-left: 20px;
+}
+
+.about-col-2 {
+  flex-basis: 60%;
+  color: white;
+  margin-right: 10px;
 }
 
 .project-tile {
-  background-color: #ddd;
-  padding: 20px;
+  padding: 20px 0;
   margin-bottom: 20px;
+  border: solid 3px;
+  border-radius: 15px;
+  border-color: rgb(220, 154, 253);
+  margin-top: 15px;
+  margin-left: 20px;
+  margin-right: 20px;
 }
 
 #profile-link {
   display: block;
   text-align: center;
   margin-top: 20px;
+}
+
+.Contact{
+  padding: 20px 0;
+  margin-bottom: 20px;
+  border: solid 3px;
+  border-radius: 15px;
+  border-color: rgb(220, 154, 253);
+  margin-top: 15px;
+  margin-left: 20px;
+  margin-right: 20px;
 }
 
 /* responsive styles here */
