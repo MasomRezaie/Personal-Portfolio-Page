@@ -5,6 +5,7 @@ body {
   background-color: #424141;
 }
 
+/* ------------------------header ------------------------------------ */
 #header {
   display: flex;
   justify-content: space-between;
@@ -26,6 +27,7 @@ body {
   margin-left: 55%;
 }
 
+/* ----------------------------welcome section ----------------------- */
 #welcome-section {
   height: 70vh;
   display: flex;
@@ -89,6 +91,7 @@ body {
   color: whitesmoke;
 }
 
+/* --------------------------------About ------------------------------------ */
 .About-me {
   padding: 80px 0;
   margin-bottom: 20px;
@@ -122,6 +125,7 @@ body {
   margin-right: 10px;
 }
 
+/* --------------------------------Project -------------------------- */
 .project-tile {
   padding: 20px 0;
   margin-bottom: 20px;
@@ -166,6 +170,8 @@ body {
   flex-basis: 60%;
   margin-right: 5px;
 }
+
+/* --------------------------Contact ----------------------------- */
 .Contact{
   padding: 20px 0;
   margin-bottom: 20px;
@@ -177,7 +183,19 @@ body {
   margin-right: 20px;
 }
 
-/* responsive styles here */
+.contact-left {
+  flex-basis: 35%;
+}
+
+.contact-right {
+  flex-basis: 60%;
+}
+
+
+
+
+
+/* -----------------------responsive styles here ------------------*/
 @media screen and (max-width: 600px) {
   p {
     font-size: 1.2em;
