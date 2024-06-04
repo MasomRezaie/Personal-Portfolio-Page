@@ -154,14 +154,18 @@ body {
   color: white;
 }
 
-#top-1 {
+.color {
   color: white;
-  margin-left: 15px;
 }
 
+.links {
+  color: darkorchid;
+}
 
-
-
+.col-2 {
+  flex-basis: 60%;
+  margin-right: 5px;
+}
 .Contact{
   padding: 20px 0;
   margin-bottom: 20px;
