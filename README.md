@@ -1,7 +1,14 @@
 #Personal-Portfolio-Page🚀
 >This repository contains the portfolio page for a personal portfolio page. This documentation serves as a guide for developers, contributors, and users to understand the architecture, implementation details, and usage instructions for the project. This project is built by html and css. Trough creating this repository, users will learn the html and css that how style a webpage.
 
-To create Portfolio page:
+**How to use this project?**
+To use this portfolio, follow my portfoli page to get update about me.
+
+**This project is created:**
+HTML
+CSS
+
+**To create Portfolio page:**
 create a hmlh file.
 create a css file.
 link correctly the css file in html. (<link<link rel="stylesheet" href="./styles.css">
