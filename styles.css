@@ -114,9 +114,10 @@ body {
 }
 
 .about-col-1 img {
-  width: 100%;
-  border-radius: 15px;
+  width: 50vh;
+  border-radius: 20px;
   margin-left: 20px;
+  height: 50vh;
 }
 
 .about-col-2 {
@@ -185,13 +186,29 @@ body {
 
 .contact-left {
   flex-basis: 35%;
+  color: white;
+  margin-left: 20px;
 }
 
 .contact-right {
   flex-basis: 60%;
 }
 
+.contact-right form {
+  width: 90%;
+}
 
+form input,form textarea {
+  width: 90%;
+  border: 0;
+  outline: none;
+  background: #262626;
+  padding: 10px;
+  margin: 5px 0;
+  color: #fff;
+  font-size: 18px;
+  border-radius: 6px;
+}
 
 
 
