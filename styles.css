@@ -1,4 +1,4 @@
-/* Body Style */
+/* ------------------Body Style -------------------------- */
 body {
   margin: 0%;
   font-family: Arial, sans-serif;
@@ -159,10 +159,6 @@ body {
   color: white;
 }
 
-.color {
-  color: white;
-}
-
 .links {
   color: darkorchid;
 }
@@ -210,9 +206,7 @@ form input,form textarea {
   border-radius: 6px;
 }
 
-
-
-/* -----------------------responsive styles here ------------------*/
+/* -----------------------responsive styles here ------------------ */
 @media screen and (max-width: 600px) {
   p {
     font-size: 1.2em;
@@ -272,5 +266,5 @@ form input,form textarea {
   margin-top: 8px;
   margin-left: 10px;
   margin-right: 10px;
-}
+  }
 }
